@@ -35,4 +35,6 @@ Foco em **automação, cloud, containerização e CI/CD** para soluções escal�
   <a href = "mailto:rondimar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rondismar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
+<div style="display: inline_block"><br>
+[![Rondismar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rondismar&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/rondismar/github-readme-stats#gh-dark-mode-only)
+</div>
